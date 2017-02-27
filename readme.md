@@ -19,4 +19,10 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Lumen framework is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)
-# bar
+## bar
+这是一个类似与百度贴吧的练手项目，采用php(lumen) + go，go编写核心逻辑，php来调用展示，中间采用pb(grpc)通信
+## target
+    1.尽可能的运用lumen所有的特性，熟悉lumen
+    2.使用grpc，加深对go和pb的理解运用
+## author
+    QQ:240231926
